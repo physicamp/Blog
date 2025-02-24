@@ -27,6 +27,28 @@ Interviewers should tailor questions to their organization’s needs:
   - Ensure problems are calibrated with colleagues.
   - Avoid unnecessary domain knowledge unless relevant.
 
+**ALGORITHMS**
+|Algorithms Type   |Key points                                                                                                                      |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------|
+|Sorting            |Uncover some structure by sorting the input                                                                                    |
+|Recursion          |If the structure of the input is defined in a recursive m€rnnel design a recursive algorithm that follows the input definition,|
+|Divide-and-conquer |Divide the problem into two or more smaller independent subproblemsand solve the original problem using solutionssubproblems   |
+|Dynamic programming|Compute solutions for smaller instances of a given problem anduse these solutions to construct a solution to the problem.      |
+|Greedy algorithms  |Compute a solution in stages, making choices that are locally optimum at each step; these choices are never undone.            |
+|Invariants         |Identify an invariant and use it to rule out potential solutions that are suboptimafdominated by other solutions.              |
+|Graph modeling     |Describe the problem using a $aph and solve it using an existing graph algorithm.                                              |
+
+
+Divide the problem into two or more smaller independent subproblems
+and solve the original problem using solutions to the
+subproblems.
+
+Compute a solution in stages, making choices that are locally
+optimum at each step; these choices are never undone.
+Identify an invariant and use it to rule out potential solutions
+that are suboptimafdominated by other solutions.
+Describe the problem using a $aph and solve it using an existing
+graph algorithm
 ## Chapter 3: Conducting the Interview
 Interviewers must balance evaluating responses, keeping the conversation flowing, and taking notes. Common challenges:
 - **Silent Candidates:** Some get intimidated and shut down. Encourage them with hints and reassurance.
