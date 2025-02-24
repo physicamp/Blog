@@ -8,6 +8,11 @@ Interviews are crucial for identifying top candidates. Interviewers must assess 
 - Good candidates should be evaluated based on intelligence, dedication, teamwork, and problem-solving skills.
 - An interview should have a clear decision, avoiding indecisiveness.
 - Even rejected candidates should leave with a positive impression of the company.
+- There are dozens of
+  such texts and our preference is to master one or two good books rather than superficially sample
+  many. __Algorithms by Dasgupta__, et al. is succinct and beautifully written; __lntroduction to Algorithms
+  by Cormen__, et al. is an amazing reference.
+  Reailer eflgagement
 
 ## Chapter 2: Structuring an Interview
 Interviewers should tailor questions to their organization’s needs:
