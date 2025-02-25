@@ -38,17 +38,11 @@ Interviewers should tailor questions to their organization’s needs:
 |Invariants         |Identify an invariant and use it to rule out potential solutions that are suboptimafdominated by other solutions.              |
 |Graph modeling     |Describe the problem using a $aph and solve it using an existing graph algorithm.                                              |
 
-
-Divide the problem into two or more smaller independent subproblems
-and solve the original problem using solutions to the
-subproblems.
-
-Compute a solution in stages, making choices that are locally
-optimum at each step; these choices are never undone.
-Identify an invariant and use it to rule out potential solutions
-that are suboptimafdominated by other solutions.
-Describe the problem using a $aph and solve it using an existing
-graph algorithm
+ - Letting your interviewers know that you have researched them helps break the ice and forms
+    the impression that you are enthusiastic and will go the extra mile.<br>
+  - More generally, if you do not believe in yourself, you cannot expect others to believe in you<br>
+  - An offer is not an offer till it is on paper, with all the details filled in.<br>
+  
 ## Chapter 3: Conducting the Interview
 Interviewers must balance evaluating responses, keeping the conversation flowing, and taking notes. Common challenges:
 - **Silent Candidates:** Some get intimidated and shut down. Encourage them with hints and reassurance.
