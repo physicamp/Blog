@@ -42,6 +42,8 @@ Interviewers should tailor questions to their organization’s needs:
     the impression that you are enthusiastic and will go the extra mile.<br>
   - More generally, if you do not believe in yourself, you cannot expect others to believe in you<br>
   - An offer is not an offer till it is on paper, with all the details filled in.<br>
+  - The ideal candidate is smart, dedicated, articulate, collegial, and gets things done quickly, both as an individual and in a team<br>
+  
   
 ## Chapter 3: Conducting the Interview
 Interviewers must balance evaluating responses, keeping the conversation flowing, and taking notes. Common challenges:
