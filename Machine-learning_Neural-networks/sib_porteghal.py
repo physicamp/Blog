@@ -13,7 +13,7 @@
 
 x1 = [150,130,170,180,200,210] # vazn  first input
 x2 = [7,6,8,9,10,11]           #Qotr   secound input
-yb = [1,1,1,-1,-1,-1]
+yb = [1,1,1,-1,-1,-1]         # yb as test data output
 
 #intial weight
 w1=0.4
@@ -50,7 +50,8 @@ for j in range (0,6): #This part start tarinng model with weight correction
         y[j] = (sign(s))
         if y[j] == yb[j]:
             w.append([w1,w2])
-## test data (with new data test our model)
+##  new test data (with new data test our model)
+#this part test that model is trained or not
 x1t = 160 #test first input
 x2t = 7.5 #test secound input
 w1t = w[-1][-2] #tained weight
