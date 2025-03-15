@@ -11,32 +11,35 @@
  # determine whether a fruit is an apple...
  #  or an orange based on its weight and diameter.
 
-x1 = [150,130,170,180,200,210] # vazn  first input
-x2 = [7,6,8,9,10,11]           #Qotr   secound input
-yb = [1,1,1,-1,-1,-1]         # yb as test data output
+x1 = [150,130,170,180,200,210] # weight  first input
+x2 = [7,6,8,9,10,11]           # radius  secound input
+yb = [1,1,1,-1,-1,-1]          # yb      as test data output
 
 #intial weight
 w1=0.4
 w2=0.5
 
-def sign(x):    #sign function
+# 
+def sign(x):
     if x > 0:
         r = 1
     if x <= 0:
         r = -1
     return r
 
-def correct_w1(x1,y,yb,w1):     #First weight correction
-        a = 0.1  #Farz kardim
+# First weight correction
+def correct_w1(x1,y,yb,w1):     
+        a = 0.1  # Suppose!
         w1 = w1 + (a*((yb - y)*x1))
         return w1
 
-def correct_w2(x2,y,yb,w2):     #Secound weight correction
-        a = 0.1 #Farz kardim
+# Second weight correction
+def correct_w2(x2,y,yb,w2):     
+        a = 0.1 # Suppose!
         w2 = w2 + (a*((yb - y)*x2))
         return w2
 
-# inner multipol w & x
+# inner multiple w & x
 y = []
 w=[(0.4,0.5)]
 for i in range (0,6): #This part make first Data for start training
@@ -61,3 +64,7 @@ if sign(s) == 1 :
     print("SIIIB")
 if sign(s) == -1:
     print("PORTEGHAL")
+#! if int(s > 0) = 1:
+#    print("sib e sabz e torsh")
+#  else:
+#    print('ab porteghal')
